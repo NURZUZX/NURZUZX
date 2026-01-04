@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Cuz1mWolf
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me schxttenwolf_ on Discord
+- 📫 How to reach me cuz1mwolf on Discord
 
 <!---
 Schxttenwolf/Schxttenwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
