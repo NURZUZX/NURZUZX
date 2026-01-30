@@ -86,8 +86,6 @@ Seit **2017** erstelle und
 
 ---
 
-## 📊 GitHub Statistiken
-
 <div align="center">
 
 <a href="https://github.com/itsw0lf">
