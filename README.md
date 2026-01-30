@@ -2,4 +2,4 @@
 
   [![GitHub followers](https://img.shields.io/github/followers/itsw0lf?style=for-the-badge&logo=github&color=FFA500)](https://github.com/itsw0lf)
   [![Discord](https://img.shields.io/badge/Discord-itsw0lf-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-  [![SpigotMC](https://img.shields.io/badge/SpigotMC-itsw0lf-FF9800?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.spigotmc.org/members/itsw0lf/)
+  [![SpigotMC](https://img.shields.io/badge/SpigotMC-itsw0lf-FF9800?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.spigotmc.org/members/itsw0lf.2469166/)
