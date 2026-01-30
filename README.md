@@ -90,22 +90,12 @@ Seit **2017** erstelle und
 
 <a href="https://github.com/itsw0lf">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsw0lf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsw0lf&theme=tokyonight" alt="GitHub Streak"/>
-
-</div>
-
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsw0lf&layout=compact&theme=tokyonight"/>
 </a>
 
-</div>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsw0lf&layout=compact&theme=tokyonight"/>
 
----
+<br>
 
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=itsw0lf&color=FFA500&style=for-the-badge" alt="Profile Views"/>
-  
+<img src="https://komarev.com/ghpvc/?username=itsw0lf&color=FFA500&style=for-the-badge" alt="Profile Views"/>
+
 </div>
