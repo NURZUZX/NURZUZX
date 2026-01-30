@@ -73,3 +73,13 @@ Minecraft ist seit 2017 meine absolute Leidenschaft. Was als Hobby begann, hat s
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
+
+## ⛏️ Minecraft Server Consulting, Freizeit
+
+Seit **2017** erstelle und
+
+* 🔧 **Server Setup & Optimization** – Performance-Tuning, Plugin-Empfehlungen, generelle Beratung
+* 🛡️ **Security Audits** – Exploits finden, Griefing verhindern, Anti-Cheat Setup
+* 🏗️ **Custom Plugin Development** – Velocity/Spigot/Paper Plugins
+* 🌐 **Netzwerk-Infrastruktur** – BungeeCord/Velocity Setups, Proxy-Konfiguration
+* 📊 **Community Management** – Discord-Bots, Webseiten, Statistik-Systeme
