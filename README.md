@@ -91,10 +91,6 @@ Seit **2017** erstelle und
 <div align="center">
 
 <a href="https://github.com/itsw0lf">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsw0lf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsw0lf&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
 
 <br>
 
