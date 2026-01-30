@@ -49,9 +49,7 @@ API Integrationen (LuckPerms, Vault, etc.)
 
 Web-Dashboards für Server
 
-Discord-Bot Development (JDA / Discord.js)
-
-Datapack & Resourcepack Logic
+Discord-Bot Development (Discord-py, Pycord)
 
 Webseiten für Minecraft-Projekte
 
