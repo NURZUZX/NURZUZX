@@ -1,4 +1,4 @@
-# Hey, ich bin itsw0lf👋
+# Hey, ich NURZUZX👋
 
 <div align="center">
   
@@ -15,7 +15,7 @@
 ## 🎯 Über mich
 
 ```yaml
-Name: itsw0lf
+Name: NURZUZX
 Standort: Deutschland 🇩🇪
 Leidenschaft seit: 2017
 Fokus: Minecraft Server Infrastructure & Development
@@ -88,7 +88,7 @@ Seit **2017** erstelle und helfe ich Netzwerken in folgenden Punkten aus:
 
 <div align="center">
 
-<a href="https://github.com/itsw0lf">
+<a href="https://github.com/NURZUZX">
 
 <br>
 
